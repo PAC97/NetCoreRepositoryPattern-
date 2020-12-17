@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cano/.dotnet/store/|arch|/|tfm|",
+      "/home/cano/.nuget/packages"
+    ]
+  }
+}
